@@ -1,3 +1,7 @@
+# 🤑 Hazrat Ali
+
+# 
+
 📊 Python-Math-Statistics 🐍📐
 
 Python-Math-Statistics is a curated collection of mathematical and statistical concepts implemented in Python. It serves as a practical resource for learners and professionals to strengthen their quantitative reasoning, probability, and statistical modeling skills, with step-by-step code, visualizations, and real-world examples.
