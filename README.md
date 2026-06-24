@@ -1,6 +1,6 @@
 # 🤡 Hazrat Ali
 
-# 🤗 CEO and Founder MSoftTecH Innovation 🥶
+# 🤗 CEO and Founder HMSoftTecH Innovation 🥶
 
 📊 Python-Math-Statistics 🐍📐
 
